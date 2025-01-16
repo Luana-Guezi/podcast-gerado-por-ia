@@ -1,26 +1,23 @@
 # Projeto Criando um Podcast com IAs Generativas
 
+
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
-
-<a href="Ebook_Produtividade_Luana_Guezi.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Luana-Guezi/podcast-gerado-por-ia/blob/main/Podcast_Ep_1__IA_Luana_Guezi.MP3"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Bin](https://www.bing.com/images/create?FORM=GENEXP)
+- [Bing](https://www.bing.com/images/create?FORM=GENEXP)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## 🧠 Prompts
 
 ChatGPT：
+Prompt para geração do título do podcast e conteúdo
+ <a href="https://github.com/Luana-Guezi/podcast-gerado-por-ia/blob/main/Podcast_Ep_1__IA_Luana_Guezi.MP3"> 📕Clique aqui para ouvir</a>
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Crie um título de um ebook sobre o tema “dez dicas para aumentar sua produtividade”, o ebook é do nicho de desenvolvimento pessoal e profissional, e contem ações e exemplos práticos para aumentar a produtividade no dia a dia pessoal e profissional, o título deve seja épico e curto, e tenha uma temática mais nerd, me liste cinco variações de títulos |
-| Conteúdo | Faça um texto para ebook, cujo título é “Produtividade: 10 Estratégias para Subir de Nível e Dominar Seu Tempo”, o ebook deve conter dez dicas de como aumentar a produtividade, listando as principais ações e exemplos práticos para aumentar a produtividade no dia a dia pessoal e profissional de pessoas adultas. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga ações práticas para o dia a dia > Sempre deixe um título sugestivo por tópico |
-
-ChatGPT：
+Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -29,11 +26,11 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens de capa geradas via ChatGPT; demais imagens obtidas através de pesquisa no repositório de imagens do google
+- Imagens geradas via Bing 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição como CapCut para configuração do áudio.
 
 ## 👨‍💻 Autor
      
