@@ -1,5 +1,8 @@
 # Projeto Criando um Podcast com IAs Generativas
 
+<p align="center">
+    <img width="100" src="ver">
+</p>
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
@@ -21,7 +24,7 @@ Bing：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Imagem de Capa | Crie uma imagem que simbolize uma pessoa sendo produtiva e dominando seu tempo, coloque elementos relacionados ao trabalho, vida pessoal e lazer, uma pessoa deve estar em um formato de silhueta |
+| Imagem de Capa | crie uma imagem para um podcast de uma mulher em estilo manga, de cabelo vermelho até o ombro, a mulher deve esboçar um leve sorriso, a mulher possui olhos castanhos escuro, inclua elementos com cores em tom de verde e roxo, inclua elementos de podcast, inclua elementos de desenvolvimento pessoal |
 
 ## ✨ Features
 
